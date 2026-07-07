@@ -43,3 +43,7 @@ This Trie structure offers the following functions. I kept the defaults simple s
     
 * `sorted()`
   Returns a vector containing all integers present in the Trie in non-decreasing order.
+
+
+  ## Tested On
+* [CSES - Maximum Xor Subarray](https://cses.fi/problemset/task/1655)
